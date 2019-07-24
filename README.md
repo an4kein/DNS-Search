@@ -20,4 +20,15 @@ https://www.blackhat.com/asia-19/arsenal/schedule/#redtunnel-explore-internal-ne
 
 https://portswigger.net/daily-swig/new-tool-enables-dns-rebinding-tunnel-attacks-without-reconnaissance
 
+## ReDTunnel - Explore Internal Networks With DNS Rebinding
+
+https://www.scorpiones.io/articles/explore-internal-networks-with-dns-rebinding
+
+## Why is this different from every other DNS exfiltration technique?
+
+https://github.com/TryCatchHCF/PacketWhisper
+
+```
+PacketWhisper: Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods. Transfer data between systems without the communicating devices directly connecting to each other or to a common endpoint. No need to control a DNS Name Server.
+```
 
