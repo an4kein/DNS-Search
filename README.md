@@ -37,3 +37,6 @@ https://www.blackhatethicalhacking.com/ghostdns-botnet-hijacked-over-hundred-tho
 ## Black Hat USA 2018: ATT&CK in the NOC
 
 https://blogs.cisco.com/security/black-hat-usa-2018-attck-in-the-noc
+
+## Four Years of Breaking HTTPS with BGP Hijacking
+
