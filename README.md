@@ -33,3 +33,7 @@ PacketWhisper: Stealthily exfiltrate data and defeat attribution using DNS queri
 ## GhostDNS – New DNS Changer Botnet Hijacked Over 100,000 Routers
 
 https://www.blackhatethicalhacking.com/ghostdns-botnet-hijacked-over-hundred-thousands-routers/
+
+## Black Hat USA 2018: ATT&CK in the NOC
+
+https://blogs.cisco.com/security/black-hat-usa-2018-attck-in-the-noc
