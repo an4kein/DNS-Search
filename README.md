@@ -40,3 +40,5 @@ https://blogs.cisco.com/security/black-hat-usa-2018-attck-in-the-noc
 
 ## Four Years of Breaking HTTPS with BGP Hijacking
 
+https://github.com/e-anakein/DNS-Search/blob/master/20190219_Gavrichenkov_Four_Years_Of_v1.pdf
+
