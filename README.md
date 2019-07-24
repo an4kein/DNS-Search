@@ -42,3 +42,9 @@ https://blogs.cisco.com/security/black-hat-usa-2018-attck-in-the-noc
 
 https://github.com/e-anakein/DNS-Search/blob/master/20190219_Gavrichenkov_Four_Years_Of_v1.pdf
 
+## Should You Be Worried About BGP Hijacking your HTTPS?
+
+https://www.securityweek.com/should-you-be-worried-about-bgp-hijacking-your-https
+
+## 
+
