@@ -30,4 +30,6 @@ https://github.com/TryCatchHCF/PacketWhisper
 
 PacketWhisper: Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems      associated with typical DNS exfiltration methods. Transfer data between systems without the communicating devices directly connecting to    each other or to a common endpoint. No need to control a DNS Name Server.
 
+## GhostDNS – New DNS Changer Botnet Hijacked Over 100,000 Routers
 
+https://www.blackhatethicalhacking.com/ghostdns-botnet-hijacked-over-hundred-thousands-routers/
