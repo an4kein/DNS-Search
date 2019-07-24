@@ -46,5 +46,7 @@ https://github.com/e-anakein/DNS-Search/blob/master/20190219_Gavrichenkov_Four_Y
 
 https://www.securityweek.com/should-you-be-worried-about-bgp-hijacking-your-https
 
-## 
+## Extended Validation Certificates are Dead
+
+https://www.troyhunt.com/extended-validation-certificates-are-dead/
 
