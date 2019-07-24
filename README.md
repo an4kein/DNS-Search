@@ -61,3 +61,10 @@ https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-w
 # DNS Servers That Offer Privacy and Filtering
 
 https://danielmiessler.com/blog/dns-servers-you-should-have-memorized/
+
+# A DNS Primer
+
+![dns2_study](https://danielmiessler.com/images/Tree_upside1.jpg)
+
+https://danielmiessler.com/study/dns/
+
