@@ -28,7 +28,7 @@ https://www.scorpiones.io/articles/explore-internal-networks-with-dns-rebinding
 
 https://github.com/TryCatchHCF/PacketWhisper
 
-```
-PacketWhisper: Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems associated with typical DNS exfiltration methods. Transfer data between systems without the communicating devices directly connecting to each other or to a common endpoint. No need to control a DNS Name Server.
-```
+
+    PacketWhisper: Stealthily exfiltrate data and defeat attribution using DNS queries and text-based steganography. Avoid the problems      associated with typical DNS exfiltration methods. Transfer data between systems without the communicating devices directly connecting to    each other or to a common endpoint. No need to control a DNS Name Server.
+
 
