@@ -1,5 +1,5 @@
 # DNS-Search
-Repo with search about DNS attacks
+Repo with search about DNS attacks [by Anakein anakein@protonmail.ch]
 
 ![DNS](https://www.blackhat.com/images/page-graphics-17/logo.png)
 
