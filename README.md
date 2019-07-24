@@ -57,3 +57,7 @@ https://dirkjanm.io/getting-in-the-zone-dumping-active-directory-dns-with-adidns
 ## Attacking Private Networks from the Internet with DNS Rebinding
 
 https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325
+
+# DNS Servers That Offer Privacy and Filtering
+
+https://danielmiessler.com/blog/dns-servers-you-should-have-memorized/
