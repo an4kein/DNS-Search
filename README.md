@@ -50,3 +50,6 @@ https://www.securityweek.com/should-you-be-worried-about-bgp-hijacking-your-http
 
 https://www.troyhunt.com/extended-validation-certificates-are-dead/
 
+## Getting in the Zone: dumping Active Directory DNS using adidnsdump
+
+https://dirkjanm.io/getting-in-the-zone-dumping-active-directory-dns-with-adidnsdump/
