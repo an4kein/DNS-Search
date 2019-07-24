@@ -53,3 +53,7 @@ https://www.troyhunt.com/extended-validation-certificates-are-dead/
 ## Getting in the Zone: dumping Active Directory DNS using adidnsdump
 
 https://dirkjanm.io/getting-in-the-zone-dumping-active-directory-dns-with-adidnsdump/
+
+## Attacking Private Networks from the Internet with DNS Rebinding
+
+https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325
