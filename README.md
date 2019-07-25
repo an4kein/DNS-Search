@@ -72,4 +72,6 @@ https://danielmiessler.com/study/dns/
 
 http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html
 
+## How to gather dns information ?
 
+https://github.com/nixawk/pentest-wiki/blob/master/1.Information-Gathering/How-to-gather-dns-information.md
