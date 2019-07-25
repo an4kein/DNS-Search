@@ -1,7 +1,7 @@
 # DNS-Search
 Repo with search about DNS attacks [by Anakein anakein@protonmail.ch]
 
-![DNS](https://www.blackhat.com/images/page-graphics-17/logo.png)
+![DNS](https://images.techhive.com/images/article/2014/08/black-hat-logo-100410196-primary.idge.jpg)
 
 
 ## Black Hat | DNS as a Pathway for Infiltration and Exfiltration
