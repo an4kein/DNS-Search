@@ -1,0 +1,9 @@
+DNS Attacks
+
+There are number of attack types associated with DNS. We’ll cover just a few of them.
+
+    Changing Your DNS Server: An attacker who can change your DNS server can control where you are taken when you request sensitive resources, like your bank, etc.
+    
+    Distributed Denial of Service: Because DNS uses UDP, you can request from thousands, or millions, of DNS servers the address for a given name, but do so with the spoofed source address of your victim. This results in that victim being melted by all the response traffic. Many tools exist for doing this.
+    
+    The Kaminsky Attack: The Kaminsky attack was an issue with predictable DNS IDs that allowed attackers to flood a given system with responses that would then be written and passed onto clients.For more on this attack, see this excellent resource.
