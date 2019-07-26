@@ -79,3 +79,16 @@ https://github.com/nixawk/pentest-wiki/blob/master/1.Information-Gathering/How-t
 ## Preventing DNS Attacks: Tips and Best Practices
 
 https://blog.101domain.com/domains/preventing-dns-attacks
+
+The breakdown of common attack types goes like this:
+
+76% are direct denial of service (DDoS) attacks – Also known as amplification attacks. They use several computers to issue a flood of requests to a server, causing it to overload and stop responding. DDoS attacks involve one attacking system and one server.
+
+33% involve cache poisoning – Involves replacing legitimate cache information with faked or spoofed data to redirect users.
+
+29% are DNS exploits – Attackers search for DNS vulnerabilities to find a weak point to penetrate the system.
+
+29% involve UDP flooding – A form of DDoS DNS attack, these attacks overwhelm a targeted system until it can no longer respond.
+
+24% are the result of DNS tunneling – Hackers embed malicious coding or programs in the DNS queries in an effort to commandeer the session and/or re-direct traffic.
+
