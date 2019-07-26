@@ -75,3 +75,7 @@ http://unixwiz.net/techtips/iguide-kaminsky-dns-vuln.html
 ## How to gather dns information ?
 
 https://github.com/nixawk/pentest-wiki/blob/master/1.Information-Gathering/How-to-gather-dns-information.md
+
+## Preventing DNS Attacks: Tips and Best Practices
+
+https://blog.101domain.com/domains/preventing-dns-attacks
