@@ -100,3 +100,6 @@ https://rmusser.net/docs/Network_Attacks.html#dns
 ## Infosec Reference [Network_Attacks]
 
 https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Network_Attacks.md
+
+## OWASP
+https://github.com/OWASP/Amass
