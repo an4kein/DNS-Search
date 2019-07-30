@@ -92,3 +92,7 @@ The breakdown of common attack types goes like this:
 
 24% are the result of DNS tunneling – Hackers embed malicious coding or programs in the DNS queries in an effort to commandeer the session and/or re-direct traffic.
 
+
+## Network Attacks FULL
+
+https://rmusser.net/docs/Network_Attacks.html#dns
