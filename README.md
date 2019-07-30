@@ -96,3 +96,7 @@ The breakdown of common attack types goes like this:
 ## Network Attacks FULL
 
 https://rmusser.net/docs/Network_Attacks.html#dns
+
+## Infosec Reference [Network_Attacks]
+
+https://github.com/rmusser01/Infosec_Reference/blob/master/Draft/Network_Attacks.md
